@@ -13,7 +13,7 @@
           <li><a href="#">About Us</a></li>
           <li><a href="#">Academics</a></li>
           <li><a href="#">Admissions</a></li>
-          <li><a href="#">Contact Us</a></li>
+          <li><a href="#">Contact Madrasa Principle</a></li>
         </ul>
       </nav>
     </header>

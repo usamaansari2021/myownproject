@@ -2,42 +2,41 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Usama E-commerce Application</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Madrasa Website</title>
   </head>
   <body>
     <header>
+      <h1>Welcome to Umme Aiman madrasa</h1>
       <nav>
         <ul>
           <li><a href="#">Home</a></li>
-	  <li><a href="#">Mobile 9762608883</a></li>
-          <li><a href="#">Shop</a></li>
           <li><a href="#">About Us</a></li>
-          <li><a href="#">Contact Usama office</a></li>
+          <li><a href="#">Academics</a></li>
+          <li><a href="#">Admissions</a></li>
+          <li><a href="#">Contact Us</a></li>
         </ul>
       </nav>
     </header>
+    
     <main>
-      <section class="product">
-        <h2>Product Title</h2>
-        <img src="product-image.jpg" alt="Product Image">
-        <p>Product Description</p>
-        <p class="price">$19.99</p>
-        <button>Add to Cart</button>
+      <section>
+        <h2>About Us</h2>
+        <p>We are a leading educational institution that provides high-quality education to students from all backgrounds.</p>
       </section>
-      <section class="cart">
-        <h2>Shopping Cart</h2>
-        <ul>
-          <li>Product 1 - $9.99</li>
-          <li>Product 2 - $14.99</li>
-          <li>Product 3 - $24.99</li>
-        </ul>
-        <p class="total">Total: $49.97</p>
-        <button>Checkout</button>
+      
+      <section>
+        <h2>Academics</h2>
+        <p>Our curriculum is designed to help students achieve their academic goals and prepare them for the future.</p>
+      </section>
+      
+      <section>
+        <h2>Admissions</h2>
+        <p>If you are interested in applying to our school, please visit our admissions page for more information.</p>
       </section>
     </main>
+    
     <footer>
-      <p>&copy; 2023 My E-commerce Application</p>
+      <p>&copy; XYZ School 2023</p>
     </footer>
   </body>
 </html>

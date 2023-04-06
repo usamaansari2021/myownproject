@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>My E-commerce Application</title>
+    <title>Usama E-commerce Application</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>

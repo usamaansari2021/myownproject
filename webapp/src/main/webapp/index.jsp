@@ -10,6 +10,7 @@
       <nav>
         <ul>
           <li><a href="#">Home</a></li>
+	  <li><a href="#">Mobile 9762608883</a></li>
           <li><a href="#">Shop</a></li>
           <li><a href="#">About Us</a></li>
           <li><a href="#">Contact Usama office</a></li>
